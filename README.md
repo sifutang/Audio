@@ -162,7 +162,8 @@ videoCodec.release()
 
 当我们通过MediaCodec解码出来了音视频数据后，可以做一些有趣的后处理，比如多个音频的混音，视频的剪辑等
 
-Demo
+Demo效果
+![demo](./image/demo.png)
 
 
 
